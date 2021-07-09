@@ -10,3 +10,4 @@ python3 examples/termostat.py
 
 # Data sheet schema
 <img src="/fritzing_data_sheet.png">
+
