@@ -1,4 +1,4 @@
-# Display-Server
+# Display-Server for Raspberry Zero or higghest
 To show temp on server room and call a url on over temp limit.
 
 # Install
