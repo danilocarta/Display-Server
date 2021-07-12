@@ -13,8 +13,8 @@ You Need:
 ```
 sudo raspi-config
 ```
->> 9 Advanced Options<br/>
->> A7 I2C and Enable it
+> 9 Advanced Options<br/>
+> A7 I2C and Enable it
 ```
 sudo apt-get update
 sudo apt-get install python3-pip
