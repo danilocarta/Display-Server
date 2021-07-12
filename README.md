@@ -20,7 +20,7 @@ sudo apt-get update
 sudo apt-get install python3-pip
 sudo apt-get install i2c-tools
 sudo apt-get install python3-smbus
-sudo python3 -m pip3 install --upgrade pip3 setuptools wheel
+sudo python3 -m pip install --upgrade pip setuptools wheel
 ```
 
 # Install process
